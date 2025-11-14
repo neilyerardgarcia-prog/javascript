@@ -80,3 +80,4 @@ let explícitaNum = Number(bool2);
 let implícitaNum = +bool2;
 console.log("explícita", explícitaNum);
 console.log("implícita", implícitaNum);
+
